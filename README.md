@@ -1,3 +1,3 @@
-# Ribhararnus Pracuutiar
+# Ribhararnus Pracutiar
 
 Hi, there
