@@ -61,6 +61,7 @@ Other projects (active at various points between 2020–2024)
 - leksikon: A localized Indonesian version of wordxkit using Neo4J and a large lexicon dataset.
 - HN reader: Several desktop applications experimenting with real-time reactivity.
 - scrolls: A reading app with a structural reading approach, unreleased.
+- and many more... (at least 10+ projects)
 
 Most of these projects were not published for both technical and non-technical reasons. But each of them contributed to the foundation of how I think about systems, data representation, and reading as a cognitive activity.
 
