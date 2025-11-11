@@ -19,7 +19,7 @@ For now, I'd like to show several projects that I am currently working on or hav
 
 # Ongoing Projects
 
-### gomix ([github.com/raitucarp/gomix](github.com/raitucarp/gomix))
+### gomix ([github.com/raitucarp/gomix](https://github.com/raitucarp/gomix))
 
 Status: WIP (v0.0.3x)
 
@@ -33,7 +33,7 @@ Long-term goal: UI HTML, WebView, and desktop-native renderers that share the sa
 
 The process is ongoing. I move slowly because this project requires a clean foundation.
 
-### epub ([github.com/raitucarp/epub](github.com/raitucarp/epub))
+### epub ([github.com/raitucarp/epub](https://github.com/raitucarp/epub))
 
 Status: Ready for use, prior to official v1.0.0 release
 
@@ -43,7 +43,7 @@ The initial purpose was personal. I was preparing an EPUB reader application wit
 
 The result is this library. There is still room for refinement, but the foundation for reading and writing EPUB works and can be adopted.
 
-### openlibrary-go ([github.com/raitucarp/openlibrary-go](github.com/raitucarp/openlibrary-go))
+### openlibrary-go ([github.com/raitucarp/openlibrary-go](https://github.com/raitucarp/openlibrary-go))
 
 Status: Pre-release (v0.1.1)
 
